@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pandas>=3.0
+numpy
